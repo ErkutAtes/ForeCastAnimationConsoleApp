@@ -1,0 +1,28 @@
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\bin\Debug\net6.0\ForeCastAnimationConsoleApp.exe
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\bin\Debug\net6.0\ForeCastAnimationConsoleApp.deps.json
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\bin\Debug\net6.0\ForeCastAnimationConsoleApp.runtimeconfig.json
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\bin\Debug\net6.0\ForeCastAnimationConsoleApp.dll
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\bin\Debug\net6.0\ForeCastAnimationConsoleApp.pdb
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\obj\Debug\net6.0\ForeCastAnimationConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\obj\Debug\net6.0\ForeCastAnimationConsoleApp.AssemblyInfoInputs.cache
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\obj\Debug\net6.0\ForeCastAnimationConsoleApp.AssemblyInfo.cs
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\obj\Debug\net6.0\ForeCastAnimationConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\obj\Debug\net6.0\ForeCastAnimationConsoleApp.dll
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\obj\Debug\net6.0\refint\ForeCastAnimationConsoleApp.dll
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\obj\Debug\net6.0\ForeCastAnimationConsoleApp.pdb
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\obj\Debug\net6.0\ForeCastAnimationConsoleApp.genruntimeconfig.cache
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp\obj\Debug\net6.0\ref\ForeCastAnimationConsoleApp.dll
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\bin\Debug\net6.0\ForeCastAnimationConsoleApp.exe
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\bin\Debug\net6.0\ForeCastAnimationConsoleApp.deps.json
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\bin\Debug\net6.0\ForeCastAnimationConsoleApp.runtimeconfig.json
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\bin\Debug\net6.0\ForeCastAnimationConsoleApp.dll
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\bin\Debug\net6.0\ForeCastAnimationConsoleApp.pdb
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\obj\Debug\net6.0\ForeCastAnimationConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\obj\Debug\net6.0\ForeCastAnimationConsoleApp.AssemblyInfoInputs.cache
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\obj\Debug\net6.0\ForeCastAnimationConsoleApp.AssemblyInfo.cs
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\obj\Debug\net6.0\ForeCastAnimationConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\obj\Debug\net6.0\ForeCastAnimationConsoleApp.dll
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\obj\Debug\net6.0\refint\ForeCastAnimationConsoleApp.dll
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\obj\Debug\net6.0\ForeCastAnimationConsoleApp.pdb
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\obj\Debug\net6.0\ForeCastAnimationConsoleApp.genruntimeconfig.cache
+C:\Users\erkut\OneDrive\Masaüstü\ForeCastAnimationConsoleApp - Kopya (2)\obj\Debug\net6.0\ref\ForeCastAnimationConsoleApp.dll
